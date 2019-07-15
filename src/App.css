@@ -28,17 +28,19 @@
   flex-direction: column;
   justify-content: space-around;
   place-items: center;
-  border: 3px solid white;
   border-radius: 0.5rem;
   width: 15rem;
 }
 
 .home {
-  background-color: #656565;
+  background-color: #074679;
+  border: 3px solid white;
 }
 
 .away {
-  background-color: #af750a;
+  background-color: navy;
+  border: 3px solid white;
+  color: orangered;
 }
 
 .home__name,
